@@ -34,3 +34,10 @@ systemctl enable iptables.service #设置防火墙开机启动
 最后重启系统使设置生效即可。
 
 references: https://shadowsocks.org/en/index.html
+
+
+
+### TO DO
+
+https://github.com/munin-monitoring/munin
+try to use monitoring for network to test the speed.
